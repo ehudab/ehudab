@@ -16,15 +16,6 @@ I believe in *learning by doing*, even if that means starting small and improvin
 
 ---
 
-## 🧠 What I’m Working On
-
-- Building **mini AI & ML experiments** using Python and PyTorch  
-- Practicing **data cleaning and visualization** with Pandas, Matplotlib & Seaborn  
-- Strengthening my **math & algorithm skills** for AI research  
-- Exploring **Generative AI** and how creativity meets logic  
-
----
-
 ## 🧩 Skills & Tools
 
 **Languages:** Python, C, JavaScript, Go  
@@ -50,7 +41,7 @@ _Addis Ababa University (2024 – Present)_
 
 ---
 
-## 🧪 Featured Projects
+## 🧪 Future Planned Projects
 
 *(I’m building my GitHub step-by-step with small, clear projects — feel free to explore!)*
 
@@ -69,13 +60,6 @@ _Addis Ababa University (2024 – Present)_
 - Build a cool **end-to-end ML project**  
 - Improve my math-to-AI understanding  
 - Keep learning — every single day 🚀  
-
----
-
-## 🌱 Fun Fact
-
-When I’m not debugging or solving math problems,  
-you’ll probably find me exploring new AI ideas, reading tech blogs, or listening to lo-fi while coding 🎧
 
 ---
 
